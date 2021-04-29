@@ -4,6 +4,10 @@
 
 The public tableau website: https://public.tableau.com/profile/zheng5688#!/vizhome/CitiBike_16195667310560/Story1?publish=yes
 
+## Data processing
+
+Original data of Citi Bike programs from 2018 to 2020 is saved in Data folder. A jupyter notebook citibike-data.ipynb is used to preprocess the data and save the aggregataed data in Resource folder.
+
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
